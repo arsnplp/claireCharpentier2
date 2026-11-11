@@ -209,6 +209,7 @@ html:not(.js) .loader{display:none}
 /* ---------- Animaux ---------- */
 .animaux{padding:clamp(5rem,10vw,9rem) 0}
 .animaux__grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:clamp(1.2rem,3vw,3rem);margin-top:clamp(2.5rem,5vw,4.5rem)}
+.animaux__grid--2{grid-template-columns:repeat(2,minmax(0,1fr));max-width:860px;margin-inline:auto}
 .espece{position:relative;text-align:center}
 .espece--mid{margin-top:clamp(0rem,5vw,4.5rem)}
 .espece figure{aspect-ratio:3/4;box-shadow:0 0 0 8px var(--creme),0 0 0 9.5px var(--foret);margin:9px}

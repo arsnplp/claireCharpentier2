@@ -19,15 +19,15 @@ Les images en noir et blanc passent en couleur au survol : il suffit d'enlever l
 | Image plein écran « Les mains pour seul outil » | paysage 1800 x 1100 |
 | Blocs : portrait de Claire | carré 900 x 900 |
 | Blocs : rond chien et chat, photo chat | carré |
-| Chien, chat, cheval (tarifs) | portrait 700 x 940 |
+| Chien et chat (tarifs) | portrait 700 x 940 |
 | La séance (4 images rondes) | carré 800 x 800 |
-| Conseils (3 onglets) | portrait 600 x 800 |
+| Conseils (2 onglets) | portrait 600 x 800 |
 | Portrait de Claire (section Claire) | portrait 800 x 1060 |
 | La Grande Odyssée | paysage 900 x 700 |
 | Image de partage (réseaux) | `assets/img/partage.jpg`, 1200 x 630 (à créer) |
 
 ## À valider avec Claire
-- Tarifs (70 € chien et chat, 100 € cheval), adresse du cabinet et lien de prise de rendez-vous : repris de son site actuel.
+- Tarif (70 € chien et chat), adresse du cabinet et lien de prise de rendez-vous : repris de son site actuel.
 - Délai de rendez-vous d'environ six semaines : affiché dans la FAQ et le contact.
 - Textes de la partie « Conseils aux maîtres » (signes repris de son site, conseils avant et après séance rédigés).
 - SIRET et hébergeur dans `mentions-legales.html`.
